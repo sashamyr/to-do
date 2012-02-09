@@ -1,0 +1,5 @@
+This is a simple application for managing your tasks.
+Is it written on python language for educational purposes. In addition to that, it stores all its contents in SQLite database.
+This application is utterly simple and its code is rather weird.
+
+Sasha Buyanov, 2009.
