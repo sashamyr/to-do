@@ -1,6 +1,8 @@
-print 'Hello!'
 import sys
 from sqlite3 import *
+
+print 'Hello!'
+
 def preparer():
     conn = connect('todo.db')
     curs = conn.cursor()
